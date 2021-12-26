@@ -2,7 +2,10 @@
 layout: post
 title: How To Clear Your Busy Mind With a Brain Dump (+ Bullet Journal Brain Dump Examples
 description:
-image: /assets/brain-dump-1.jpeg
+image: 
+	path: /assets/brain-dump-1.jpeg
+	height: 100
+	width: 100
 tags:
 author: Silvia Bastos
 ---
