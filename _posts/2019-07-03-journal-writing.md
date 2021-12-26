@@ -6,6 +6,8 @@ image:
 tags:
 author: Michal Korzonek
 ---
+![Journal Writing Cover](/assets/journal-writing-1.jpeg)
+
 There are thousands of different ways to journal, but if you want this practice to _radically_ improve your life, you need to do it in a way that is right for _you._
 
 That’s what I call _intelligent journal writing_: **when you adapt your practice to meet your unique needs and personality, journaling becomes effective, intuitive, and effortless**.
@@ -22,7 +24,7 @@ Ready? Let’s dive in.
 
 ## Intelligent Journal Writing: How It Works
 
-[caption id="attachment_779" align="alignnone" width="800"]![Tony Robbins quote](http://journalsmarter.com/wp-content/uploads/2019/07/2.jpg) _Illustrations by Silvia Bastos and Michal Korzonek_[/caption]
+![Tony Robbins quote](/assets/questions-tony.jpg) 
 
 The quality of your life is directly connected to the questions you are willing to ask. 
 
@@ -40,7 +42,7 @@ For example:
 
 **In a nutshell, journaling is a simple script: When {cue}, I will {action}.**
 
-![Example prompt](http://journalsmarter.com/wp-content/uploads/2019/07/3.jpg)
+![Example prompt](/assets/journal-writing-3.jpeg)
 
 Do you see what this means?
 
@@ -52,7 +54,7 @@ Let’s start with how _not_ to do it by avoiding two common pitfalls: **lack of
 
 ## Common Journaling Pitfall #1: Lack of Consistency
 
-!["Greatness is created by a series of good decisions, extremely well executed, over a long period of time" - Jim Collins](http://journalsmarter.com/wp-content/uploads/2019/07/4.jpg)
+!["Greatness is created by a series of good decisions, extremely well executed, over a long period of time" - Jim Collins](/assets/journal-writing-4.jpeg)
 
 **Unless you make journaling a habit, you are unlikely to feel its benefits.**
 
@@ -80,13 +82,13 @@ Consistency alone is not enough.
 
 In order to harness the full potential of your journaling practice, **you need to journal in a way that engages both your conscious and your subconscious mind.**
 
-![Journal combining conscious and subconscious](http://journalsmarter.com/wp-content/uploads/2019/07/5.jpg)
+![Journal combining conscious and subconscious](/assets/journal-writing-5.jpeg)
 
 Let’s imagine you decide to build the habit of exercising every day for thirty minutes. 
 
 Tracking your workouts in your habit tracker is a great way to create accountability, and it’s a great start to build consistency.
 
-![Habit tracker example](http://journalsmarter.com/wp-content/uploads/2019/07/6.jpg)
+![Habit tracker example](/assets/journal-writing-6.jpeg)
 
 However, when obstacles surface (getting distracted, losing motivation, feeling confused), you need to **shift your focus to look for the root of your problems, and find solutions**.
 
@@ -107,7 +109,7 @@ You might realize that going to sleep at 2 am is a sure way not to exercise the 
 
 Based on your insights, you can tweak your exercise plan, and then watch with pride how you progress and overcome your own expectations.
 
-![Habit tracker example with a question prompting subconscious](http://journalsmarter.com/wp-content/uploads/2019/07/7.jpg)
+![Habit tracker example with a question prompting subconscious](/assets/journal-writing-7.jpeg)
 
 Not only can you engage your **subconscious mind to unlock hidden information**, but you can also use your **conscious mind to turn that information into practical solutions**.
 
@@ -119,7 +121,7 @@ You decide to start digging up your worries from the depths of your subconscious
 
 This is a great way to get some relief and clarity, but you can take it a step further by consciously reviewing that information, looking for relevant patterns, and devising strategies to address them.
 
-![Example of pattern spotting](http://journalsmarter.com/wp-content/uploads/2019/07/8.jpg)
+![Example of pattern spotting](/assets/journal-writing-8.jpeg)
 
 Perhaps you might notice that you always feel sad in the evenings, and you need to design a new evening routine, or make a [list of things you feel grateful for](/gratitude-journal){:target="_blank"}. 
 
@@ -133,7 +135,7 @@ And if that sounds complicated, don’t worry: the steps we’re about to explor
 
 ## 4 Principles From the Journals of the Brightest Minds Throughout History
 
-![4 famous people on a journal page](http://journalsmarter.com/wp-content/uploads/2019/07/9.jpg)
+![4 famous people on a journal page](/assets/journal-writing-9.jpeg)
 
 Journaling has been around for over 2000 years (to learn more about the history of journaling, read those two articles: [The Astonishing History of Journaling](https://epica.com/blogs/epica-news/the-astonishing-history-of-journaling){:target="_blank"} by Michele Swensen and [History of Journaling](https://inbreathe.com.au/history-of-journaling/){:target="_blank"} published on Inbreathe. 
 
@@ -143,7 +145,7 @@ Without further ado, allow me to introduce you to four journaling mentors and th
 
 ### Leonardo DaVinci: Let Your Mind Flow
 
-[caption id="attachment_812" align="alignnone" width="800"]![A page from Codex Leicester by Leonardo Da Vinci](http://journalsmarter.com/wp-content/uploads/2019/07/IMG_1956.jpg) _The Codex Leicester by Leonardo Da Vinci. Source: [Wikipedia](https://commons.m.wikimedia.org/wiki/File:Vinci_-_Hammer_2A_m.jpg){:target="_blank"}._[/caption]
+![A page from Codex Leicester by Leonardo Da Vinci](/assets/journal-davinci.jpeg) _The Codex Leicester by Leonardo Da Vinci. Source: [Wikipedia](https://commons.m.wikimedia.org/wiki/File:Vinci_-_Hammer_2A_m.jpg){:target="_blank"}._
 
 Leonardo didn’t care much for structure. 
 
@@ -151,7 +153,7 @@ One idea sparked another, and Da Vinci kept on jumping freely between them in an
 
 As a result, his journals combine an impressive number of inventions, designs, observations and discoveries (eg. a helicopter and a full dissection of human anatomy) [Here’s a list](http://www.da-vinci-inventions.com/davinci-inventions.aspx){:target="_blank"} of some of Da Vinci’s inventions. And that was five hundred years ago!
 
-Here’s the magic of Leonardo’s journals compressed into one minute:
+Here’s the [video](https://youtu.be/7f93133qzSY) compressing the magic of Leonardo’s journals into one minute.
 
 What can we learn from this?
 
@@ -163,17 +165,17 @@ Therefore **never stop yourself from journaling whatever is on your mind and in 
 
 Think of it as a blank canvas for unrestricted flow of your mind. It doesn’t have to be linear. It doesn’t have to be text. And even if it is, it doesn’t have to be horizontal. 
 
-[caption id="attachment_813" align="alignnone" width="1100"]![A page from Codex Arundel by Leonardo Da Vinci](http://journalsmarter.com/wp-content/uploads/2019/07/IMG_1958.jpg) _The Codex Arundel by Leonardo Da Vinci. Source: [kottke.org](https://kottke.org/17/08/browse-the-british-librarys-online-copy-of-leonardo-da-vincis-570-page-notebook){:target="_blank"}._[/caption]
+![A page from Codex Arundel by Leonardo Da Vinci](/assets/journal-davinci-2.jpeg) _The Codex Arundel by Leonardo Da Vinci. Source: [kottke.org](https://kottke.org/17/08/browse-the-british-librarys-online-copy-of-leonardo-da-vincis-570-page-notebook){:target="_blank"}._
 
 You can doodle even if your drawing skills are embarrassing. You can tear paper off. You can write backward, or not write at all and instead draw what’s on your mind. The key is to give yourself permission to experiment.
 
-[caption id="attachment_814" align="alignnone" width="1500"]![A page from Codex Leicester by Leonardo Da Vinci](http://journalsmarter.com/wp-content/uploads/2019/07/IMG_1960.jpg) _The Codex Leicester by Leonardo Da Vinci. Source: [V&A](https://www.vam.ac.uk/articles/leonardo-da-vincis-notebooks){:target="_blank"}._[/caption]
+![A page from Codex Leicester by Leonardo Da Vinci](/assets/journal-davinci-3.jpeg) _The Codex Leicester by Leonardo Da Vinci. Source: [V&A](https://www.vam.ac.uk/articles/leonardo-da-vincis-notebooks){:target="_blank"}._
 
 Remember:
 
 **You can’t journal wrong.**
 
-![Quote from Leonardo DaVinci](http://journalsmarter.com/wp-content/uploads/2019/07/10.jpg)
+![Quote from Leonardo DaVinci](/assets/journal-writing-10.jpeg)
 
 The more intuitive journaling is for you, the more pleasant it will be, which in turn will make you more consistent, which will help you make it even more intuitive.
 
@@ -185,7 +187,7 @@ _Note: I highly recommend looking through Da Vinci’s journals. You can access 
 
 ### Frida Kahlo: Paper Will Take Anything
 
-[caption id="attachment_815" align="alignnone" width="1024"]![A page from Frida's Diary](http://journalsmarter.com/wp-content/uploads/2019/07/IMG_1962.jpg) _Frida’s diary. Source: [hagitaz](https://www.hagitaz.com/en/frida-kahlos-art-journal/){:target="_blank"}._[/caption]
+![A page from Frida's Diary](/assets/journal-frida.jpeg) _Frida’s diary. Source: [hagitaz](https://www.hagitaz.com/en/frida-kahlos-art-journal/){:target="_blank"}._
 
 If you ever feared to face what might come out of your head when you journal, think about Frida Kahlo.
 
@@ -207,7 +209,7 @@ For one simple reason:
 
 It’s like sharing your deepest worries with your closest and most trusted friend. No matter how difficult it might be, the act of “venting” will make you feel lighter.
 
-[caption id="attachment_816" align="alignnone" width="1024"]![A page from Frida's diary](http://journalsmarter.com/wp-content/uploads/2019/07/IMG_1963.jpg) _Frida’s diary. Source: [hagitaz](https://www.hagitaz.com/en/frida-kahlos-art-journal/){:target="_blank"}._[/caption]
+![A page from Frida's diary](/assets/journal-frida-2.jpeg) _Frida’s diary. Source: [hagitaz](https://www.hagitaz.com/en/frida-kahlos-art-journal/){:target="_blank"}._[/caption]
 
 Bottom line:
 
@@ -217,7 +219,7 @@ _Note: If you feel like digging deeper, have a look at_ [_Frida’s diaries_](ht
 
 ### Benjamin Franklin: Systems Beat Willpower
 
-[caption id="attachment_817" align="alignnone" width="800"]![A page from Benjamin Franklin's autobiography](http://journalsmarter.com/wp-content/uploads/2019/07/IMG_1966.jpg) _Benjamin Franklin’s Autobiography with his daily routine on the bottom left. Source: [University of Pennsylvania Libraries](http://openn.library.upenn.edu/Data/0022/html/mssHM_9999.html){:target="_blank"}._[/caption]
+![A page from Benjamin Franklin's autobiography](/assets/journal-ben-franklin.jpeg) _Benjamin Franklin’s Autobiography with his daily routine on the bottom left. Source: [University of Pennsylvania Libraries](http://openn.library.upenn.edu/Data/0022/html/mssHM_9999.html){:target="_blank"}._
 
 Here’s a hard truth:
 
@@ -227,7 +229,7 @@ The best way to do that is by **putting in place effective routines and systems.
 
 And guess who’s going to be your best ally for that? You guessed right: your journal.
 
-!["Goals are good for setting a direction, but systems are best for making progress" - James Clear"](http://journalsmarter.com/wp-content/uploads/2019/07/11.jpg)
+!["Goals are good for setting a direction, but systems are best for making progress" - James Clear"](/assets/journal-writing-11.jpeg)
 
 Benjamin Franklin had an ambitious life goal: _the attainment of moral perfection_.
 
@@ -244,13 +246,13 @@ Remember:
 
 It’s not about achieving perfection. It’s about giving it your best shot every single day.
 
-![Quote from Benjamin Franklin](http://journalsmarter.com/wp-content/uploads/2019/07/12.jpg)
+![Quote from Benjamin Franklin](/assets/journal-writing-12.jpeg)
 
 _Note: You might want to read_ [_Benjamin Franklin’s autobiography_](https://amzn.to/2XjQy0V){:target="_blank"}_. The way he went about his life is truly remarkable._
 
 ### Marcus Aurelius: Ask Big Questions and Dive Deep
 
-![Drawing of Marcus Aurelius with a journal](http://journalsmarter.com/wp-content/uploads/2019/07/13.jpg)
+![Drawing of Marcus Aurelius with a journal](/assets/journal-writing-13.jpeg)
 
 Let’s rewind a little bit.
 
@@ -264,7 +266,7 @@ On the other hand, reflecting on your biggest flaws or what makes you feel _real
 
 The key is to [go deep by asking](/deep-questions/){:target="_blank"} _important questions_.
 
-!["Very little is needed to make a happy life; it is all within yourself, in your way of thinking" - Marcus Aurelius](http://journalsmarter.com/wp-content/uploads/2019/07/30.jpg)
+!["Very little is needed to make a happy life; it is all within yourself, in your way of thinking" - Marcus Aurelius](/assets/journal-writing-14.jpeg)
 
 Marcus Aurelius, the emperor of Rome and the most powerful man of his time kept a journal in which he reflected on the deepest questions and problems he was facing.
 
@@ -278,7 +280,7 @@ Here’s the deal:
 
 If you could use some inspiration, here’s a [list of some of my favourite questions](deep-questions/){:target="_blank"}.
 
-![Example questions to ask yourself](http://journalsmarter.com/wp-content/uploads/2019/07/15.jpg)
+![Example questions to ask yourself](/assets/journal-writing-15.jpeg)
 
 Let’s sum up what we’ve learned from these four journaling geniuses of the past:
 
@@ -301,7 +303,7 @@ While there is a great number of journaling exercises and methodologies you can 
 
 And if you ever feel like scaling up—you can always add more.
 
-![Journal and journaling tools](http://journalsmarter.com/wp-content/uploads/2019/07/18.jpg)
+![Journal and journaling tools](/assets/journal-writing-18.jpeg)
 
 With that in mind, I’ll show you my six favorite journaling tools, which you can use for:
 
@@ -316,7 +318,7 @@ Feel free to adapt the following tools in any way to suit you. And if you feel l
 
 ### Morning Pages
 
-![Morning Pages example](http://journalsmarter.com/wp-content/uploads/2019/07/19.jpg)
+![Morning Pages example](/assets/journal-writing-19.jpeg)
 
 Purpose 
 
@@ -338,7 +340,7 @@ Learn more about Morning Pages on [Julia Cameron’s website](https://juliacamer
 
 ### The 5-Bullet-Log
 
-![5 Bullet Log Example](http://journalsmarter.com/wp-content/uploads/2019/07/20.jpg)
+![5 Bullet Log Example](/assets/journal-writing-20.jpeg)
 
 Purpose
 
@@ -364,9 +366,9 @@ Here are some ideas of what to track:
 
 Learn more about how to set up your own 5-bullet-log in this amazing article by Silvia Bastos: [_The 5-Bullet-Log: A Note-Taking System to Increase Self-Awareness and Learn More From Life_](https://medium.com/better-humans/the-5-bullet-log-a-note-taking-system-to-increase-self-awareness-and-learn-more-from-life-8150b8d2b322){:target="_blank"}_,_ or [listen to the podcast](https://www.betterhumanspodcast.com/listen/a-note-taking-system-to-increase-self-awareness-and-learn-more-from-life-with-slvia-bastos-008){:target="_blank"} where she explains how it works.
 
-### Minimalist Journaling System
+### Infinity Squares (aka Minimalist Journaling System)
 
-![Minimalist Journaling System Example Page](http://journalsmarter.com/wp-content/uploads/2019/07/21.jpg)
+![Minimalist Journaling System Example Page](/assets/journal-writing-21.jpeg)
 
 Purpose
 
@@ -392,17 +394,17 @@ The benefit?
 
 You can see your life at a glance.
 
-Here is an example of how to use the Minimalist Journaling System:
+Here is an example of how to use the Infinity Squares:
 
-![Minimalist Journaling System Example](http://journalsmarter.com/wp-content/uploads/2019/07/22.jpg)
+![Minimalist Journaling System Example](/assets/journal-writing-22.jpeg)
 
-And here’s the [Starter Kit](http://journalsmarter.com/minimalist-journaling-system/){:target="_blank"} if you want to give it a go.
+And here’s the [Starter Kit](http://jinfinitysquares.xyz#starter/){:target="_blank"} if you want to give it a go.
 
 Alternatively, read more about it in my article [_Minimalist Journaling: A Fun and Effective Tool for Tremendous Habit Change_](https://medium.com/better-humans/draft-how-to-hack-your-brain-to-achieve-consistency-that-lasts-7f5fdc520d28){:target="_blank"}_._
 
 ### Focus Funnel
 
-![Focus Funnel](http://journalsmarter.com/wp-content/uploads/2019/07/23.jpg)
+![Focus Funnel](/assets/journal-writing-23.jpeg)
 
 Purpose
 
@@ -428,7 +430,7 @@ Here’s the most important part:
 
 **Make sure you revisit your Focus Funnel regularly** (eg. before starting to work and when scheduling your next day), to make sure that you know exactly what to do and why you are doing it.
 
-![Focus Funnel examples](http://journalsmarter.com/wp-content/uploads/2019/07/24.jpg)
+![Focus Funnel examples](/assets/journal-writing-24.jpeg)
 
 **Remember: if you’re engaging in something that is not your High Impact Action, then you are likely procrastinating.**
 
@@ -436,7 +438,7 @@ This system works extremely well together with the Minimalist Journaling System.
 
 ### Turn the Journal
 
-![Turn the page example](http://journalsmarter.com/wp-content/uploads/2019/07/25.jpg)
+![Turn the page example](/assets/journal-writing-25.jpeg)
 
 Purpose
 
@@ -454,13 +456,13 @@ Don’t get me wrong: horizontal writing is just fine; however, you might be sur
 
 Give it a try!
 
-![Unstructured writing and drawing](http://journalsmarter.com/wp-content/uploads/2019/07/26.jpg)
+![Unstructured writing and drawing](/assets/journal-writing-26.jpeg)
 
 _Note: You might also want to experiment with writing in circles, playing with colors, writing backward, or anything else that you come up with._
 
 ### Journaling Prompts
 
-![Bag with prompts](http://journalsmarter.com/wp-content/uploads/2019/07/27.jpg)
+![Bag with prompts](/assets/journal-writing-27.jpeg)
 
 Purpose
 
@@ -488,7 +490,7 @@ Then, all you need to do is make journaling a part of your routine, and keep per
 
 Here’s how:
 
-![Journal and Review & Optimise](http://journalsmarter.com/wp-content/uploads/2019/07/28.jpg)
+![Journal and Review & Optimise](/assets/journal-writing-28.jpeg)
 
 ### 1. Journal Every Day
 
@@ -498,7 +500,7 @@ Reflect on how much time can you dedicate to journaling, and when that will happ
 
 For example: 30 minutes in the morning and 15 minutes before sleep. Any amount of time will do (even 10 minutes).
 
-!["If you don't have 10 minutes, then you don't have a life" - Tony Robbins](http://journalsmarter.com/wp-content/uploads/2019/07/29.jpg)
+!["If you don't have 10 minutes, then you don't have a life" - Tony Robbins](/assets/journal-writing-29.jpeg)
 
 **Once you have that figured out, simply start journaling**. You don’t need anything apart from a pen, a journal (any notebook will do) and the four journaling principles you already know:
 
@@ -515,7 +517,7 @@ It might be obvious, but I’ll say it anyway:
 
 Set aside some time at regular intervals (for example, 30 minutes every week) to simply flip through your journal and reflect on your insights and adjust the course of your life.
 
-!["Very little is needed to make a happy life; it is all within yourself, in your way of thinking" - Marcus Aurelius](http://journalsmarter.com/wp-content/uploads/2019/07/30.jpg)
+!["Very little is needed to make a happy life; it is all within yourself, in your way of thinking" - Marcus Aurelius](/assets/journal-writing-30.jpeg)
 
 Reviewing what you wrote will give you a chance to constantly perfect and adapt your practice. After reviewing your recently used journaling tools, ask yourself:
 
@@ -541,7 +543,7 @@ Personally, I love analog journaling. Here are the reasons (which paradoxically 
 -   it’s limited with space (which forces me to filter what’s important);
 -   It’s slower (which puts me in a meditative state and sharpens my focus).
 
-![Digital or Analog?](http://journalsmarter.com/wp-content/uploads/2019/07/32.jpg)
+![Digital or Analog?](/assets/journal-writing-32.jpeg)
 
 However, the biggest reason is that paper journaling is an off-screen activity, which to me is a huge advantage since it cuts down the time I’m spending in front of my devices.
 
@@ -560,9 +562,9 @@ Use what I call the “Focus Funnel”. It’s super simple and it works like a 
 3.  Define up to three High Impact Actions, which will bring you to your goal/milestone.
 4.  Engage in all of them every day (habits are key) and track your performance.
 
-![Focus Funnel Design](http://journalsmarter.com/wp-content/uploads/2019/07/33.jpg)
+![Focus Funnel Design](/assets/journal-writing-33.jpeg)
 
-Here’s [the article](https://medium.com/@michal.korzonek/how-to-finally-stop-procrastinating-with-1-simple-journaling-methodology-6d7904337366){:target="_blank"} that will guide you through the process. And this article will show you [how to stay focused](http://journalsmarter.com/stay-focused/){:target="_blank"} without getting derailed.
+Here’s [the article](https://medium.com/@michal.korzonek/how-to-finally-stop-procrastinating-with-1-simple-journaling-methodology-6d7904337366){:target="_blank"} that will guide you through the process. And this article will show you [how to stay focused](/stay-focused/){:target="_blank"} without getting derailed.
 
 ### What’s the difference between a diary, a journal, and a bullet journal (and which one should I pick)?
 
@@ -574,7 +576,7 @@ Most commonly, journaling is a text-based practice, however, there’s nothing t
 
 Bullet Journaling (BuJo) is a [journaling method created by Ryder Caroll](https://bulletjournal.com){:target="_blank"}, which uses bullet points as the core structure. [Here’s a very clear overview](https://www.buzzfeed.com/rachelwmiller/how-to-start-a-bullet-journal){:target="_blank"} of bullet journaling. You can also look at [#bujo](https://www.instagram.com/explore/tags/bujo/){:target="_blank"} on Instagram to get the idea.
 
-![Bujo, Journal or a Diary?](http://journalsmarter.com/wp-content/uploads/2019/07/34.jpg)
+![Bujo, Journal or a Diary?](/assets/journal-writing-34.jpeg)
 
 ### Ok, I get it. Which one should I pick?
 
@@ -598,7 +600,7 @@ Because they are the least restrictive.
 
 Sure. Just look at my drawing skills:
 
-![Failed doodles](http://journalsmarter.com/wp-content/uploads/2019/07/35.jpg)
+![Failed doodles](/assets/journal-writing-35.jpeg)
 
 Remember: It really doesn’t matter if you can’t draw. If you feel like it, then do it. It’s your journal. You don’t need to showcase it on Instagram.
 
@@ -649,7 +651,7 @@ No guide (no matter how ultimate) can do that for you.
 
 So start journaling today, review it regularly and optimize your practice with all you have learned today. You can totally do this.
 
-And if you ever run into a wall, or feel like you could benefit from asking a few questions, then simply [drop JournalSmarter a message](/contact/){:target="_blank"} or leave a comment below. We’ll reply to everyone.
+And if you ever run into a wall, or feel like you could benefit from asking a few questions, then simply [drop me a message](/contact/){:target="_blank"}. I get back to everyone.
 
 ## Resources
 
@@ -708,7 +710,7 @@ And if you want some more:
 -   [The 10 Best Journaling Apps for 2019](https://zapier.com/blog/best-journaling-apps/){:target="_blank"}by Melanie Pinola
 -   [The 14 Best Mood Tracker Apps for 2019](https://www.happierhuman.com/best-mood-tracker-apps/){:target="_blank"} by S.J. Scott
 
-### Journaling Videos You Should Watch
+### Journaling Videos You Could Watch
 
 [**How to Journal for Self-Growth**](https://youtu.be/o4ucRLaXG9g){:target="_blank"}
 
