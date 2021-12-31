@@ -26,7 +26,11 @@ Honeyboom LLP<br>
 Limited Liability Partnership registered in Scotland (SO306239).<br>
 Registered Office Address: 64a Cumberland Street, EH3 6RE, Edinburgh, Scotland.
 
+## Contact
 Email us anytime: hello {at} journalsmarter {dot} com
+
+## Newsletter
+I'm sending an occassional email with journaling games via substack. <a href="https://journalsmarter.substack.com" target="_blank">Subscribe here.</a>
 
 ## Copyrights
 
@@ -40,6 +44,15 @@ Hosted on [Github](https://github.com/)<br>
 Served by [Netlify](https://www.netlify.com/)<br>
 Theme [Ultra](https://github.com/ronv/ultra)<br>
 Coded by [Michał](https://michalkorzonek.com), the journaling wizard who runs this website.<br>
+
+## Support
+There are four wonderful ways to help me to create more journaling games:
+<ol>
+    <li>Engage with me and share your feedback and ideas</li>
+    <li>Share my work with your friends and encourage them to play</li>
+    <li>Purchase one of the games from <a href="/lab" target="_blank">The Lab</a></li>
+    <li>Support me on <a href="https://patreon.com/michalkorzonek.com">Patreon</a></li>
+</ol>
 
 ☀️
 

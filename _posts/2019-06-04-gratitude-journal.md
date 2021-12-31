@@ -6,6 +6,7 @@ image:
 tags:
 author: Silvia Bastos
 ---
+![Gratitude Journal](/assets/gratitude-journal-1.jpeg)
 
 _“Life’s not only black and white”_, they say.
 
@@ -13,25 +14,25 @@ But just for a moment, let’s imagine it is.
 
 Imagine that dark are all the things that cause you unpleasant emotions such as sadness, anger, frustration, fear, and pain. This usually includes things like conflict in relationships, financial instability, or even lacking purpose in life.
 
-![stressful-dark-things](http://journalsmarter.com/wp-content/uploads/2019/06/2-gratitude-journal.jpg)
+![stressful-dark-things](/assets/gratitude-journal-2.jpeg)
 
 White are the things that make you feel pleasant emotions such as joy, excitement, peace, and fulfilment. For most people, this involves stuff like getting promoted, falling in love, completing a big project, or going on a holiday.
 
-![happy-light-things](http://journalsmarter.com/wp-content/uploads/2019/06/3-gratitude-journal.jpg)
+![happy-light-things](/assets/gratitude-journal-3.jpeg)
 
 The problem is, most people have what psychologists call a [**negativity bias**](https://www.psychologytoday.com/us/articles/200306/our-brains-negative-bias){:target="_blank"}. This means that, for most of us, on a black and white scale, life looks more or less like one of the following images:
 
-![life-through-negativity-bias](http://journalsmarter.com/wp-content/uploads/2019/06/4-gratitude-journal.jpg)
+![life-through-negativity-bias](/assets/gratitude-journal-4.jpeg)
 
 In other words, it takes very little for us to see the black spots (the queue that moves too slow, the driver that goes too fast, the rude lady at the market, the weather); however, we take most good things for granted and we rarely notice them (if you hear a hundred compliments and one piece of negative feedback, guess where your attention will go?)
 
-![gratitude-glasses](http://journalsmarter.com/wp-content/uploads/2019/06/5-gratitude-journal.jpg)
+![gratitude-glasses](/assets/gratitude-journal-5.jpeg)
 
 Now imagine gratitude like a pair of special glasses that allows us to reshape the way we see life. Let’s call them the Gratitude Glasses (GG).
 
 The Gratitude Glasses help us see the white bits again, so we can slowly understand that life is not actually so dark, but instead a beautiful mix of emotional shades that bring depth to our existence.
 
-![life-with-and-without-gratitude](http://journalsmarter.com/wp-content/uploads/2019/06/6-gratitude-journal.jpg)
+![life-with-and-without-gratitude](/assets/gratitude-journal-6.jpeg)
 
 I thought I was happy, but then I started practicing gratitude and realized I didn’t really know what happiness was before. Therefore, here’s my conclusion: **not only is gratitude beneficial, it’s a necessary condition for a happy life, and a skill to be learned**. As benedictine monk David Steindl-Rast said, _“Happiness does not lead to gratitude. Gratitude leads to happiness.”_
 
@@ -43,23 +44,23 @@ This is what happened to me… until I started getting how it works.
 
 Think about your **gratitude journal as a tiny friend that reminds you to wear your Gratitude Glasses**. He also makes them look prettier, lighter, and easier to wear. His job is extremely important, because consistency and enjoyment are necessary to shift to an [appreciation-based mentality](https://www.psychologytoday.com/us/blog/out-the-darkness/201407/the-power-appreciation){:target="_blank"}.
 
-![your-friend-gratitude-journal](http://journalsmarter.com/wp-content/uploads/2019/06/7-gratitude-journal.jpg)
+![your-friend-gratitude-journal](/assets/gratitude-journal-7.jpeg)
 
 There is no right or wrong way to keep a gratitude journal, but there are a few crazy-powerful exercises and principles that really rocked my world—and my negative bias. I hope they’ll change your life too.
 
 ## 1. Don’t confuse gratitude with positive thinking
 
-![positive-thinking](http://journalsmarter.com/wp-content/uploads/2019/06/10-gratitude-journal.jpg)
+![positive-thinking](/assets/gratitude-journal-10.jpeg)
 
 I feel some aversion to the words _motivation_ and _positivity_, because they often bring up assumptions that happiness is the absence (or denial) of challenges and problems. Seeing a completely white painting of life is as dangerous and delusional as seeing only the darkness, and it often leads to irresponsible and misinformed decisions.
 
-![life-through-positive-thinking](http://journalsmarter.com/wp-content/uploads/2019/06/11-gratitude-journal.jpg)
+![life-through-positive-thinking](/assets/gratitude-journal-11.jpeg)
 
 This is not what gratitude it. **Gratitude is not denial or escapism: it’s realizing that wherever there is black, there is also white, and happiness lies in the balance between them.** The Gratitude Glasses don’t make the darkness go away, nor do they replace it with light: they just teach us to see both shades for what they are — transient, subjective, complementary — and appreciate the beauty in the contrast.
 
 Let’s say your close family member just died. That’s really sad and painful. You should honor those challenging emotions, feel them, and take time to grieve. But then use gratitude to see the other side of the coin. Appreciate the good times you spent together, the invaluable time you still have with other loved ones, and how lucky you are to be alive.
 
-![upsides-of-getting-fired](http://journalsmarter.com/wp-content/uploads/2019/06/12-gratitude-journal.jpg)
+![upsides-of-getting-fired](/assets/gratitude-journal-12.jpeg)
 
 I don’t believe there is such a thing as “too much gratitude”. Unlike what many people think, gratitude doesn’t take away your strength. You don’t need anger to engage in positive action — if you’re like me, **anger will never inspire you as much as gratitude** when it comes to helping others or changing the world.
 
@@ -67,19 +68,19 @@ I don’t believe there is such a thing as “too much gratitude”. Unlike what
 
 ## 2. Practice six levels of gratitude
 
-![gratitude-is-like-a-thread](http://journalsmarter.com/wp-content/uploads/2019/06/8-gratitude-journal.jpg)
+![gratitude-is-like-a-thread](/assets/gratitude-journal-8.jpeg)
 
 In his book _[Thanks a Thousand](https://thanksathousandbook.com/)_{:target="_blank"}, AJ Jacobs tells the story of how he went around the world thanking everyone responsible for making his morning cup of coffee (from the farmers to the truck drivers to the guy who made the company’s logo), and how allowing himself to go down the rabbit hole of gratitude improved not only the lives of those he thanked, but also his, for noticing the amount of things to be grateful for in such a simple thing as coffee.
 
 Everything is connected, and once you start seeing that — once you pull at one single loose thread — you’ll see **how much there is to be grateful for**, even in the most challenging problems you’re facing.
 
-![things-i-feel-grateful-for-around-money](http://journalsmarter.com/wp-content/uploads/2019/06/9-gratitude-journal.jpg)
+![things-i-feel-grateful-for-around-money](/assets/gratitude-journal-9.jpeg)
 
 You can use your gratitude journal to apply this principle and **bring more gratitude to the challenging areas in your life.** Whether for you it’s money, relationships, work, or finding purpose in life, allow yourself to go down the rabbit hole of gratitude by exploring the little happy things that exist in each of those areas. Once the white spots get exposed, the problem becomes simpler and much easier to handle.
 
 ## 3. Fight the numbness
 
-![motivating gratitude journal](http://journalsmarter.com/wp-content/uploads/2019/06/13-gratitude-journal.jpg)
+![motivating gratitude journal](/assets/gratitude-journal-13.jpeg)
 
 When you journal every day about things you’re grateful for, **it’s easy to fall for repetition**, such as always writing “my family” or “my health” or “my cats”.
 
@@ -97,7 +98,7 @@ or
 
 > _“What do I have today that I didn’t have before?”_
 
-![example of gratitude by comparison](http://journalsmarter.com/wp-content/uploads/2019/06/14-gratitude-journal.jpg)
+![example of gratitude by comparison](/assets/gratitude-journal-14.jpeg)
 
 Another way is to alternate the objects of your gratitude so you always have something new to write about. In [one of his podcasts](https://tim.blog/2015/11/29/magic-of-mindfulness/){:target="_blank"}, Tim Ferriss suggests writing about each of the following four things in your gratitude journal:
 
@@ -106,7 +107,7 @@ Another way is to alternate the objects of your gratitude so you always have som
 -   **An opportunity today** — something you get to do today, no matter how small (like reading a book) or big (do meaningful work you love);
 -   **A small thing near you** — like the sun on your skin, the roof above your head, or your comfortable chair.
 
-![4 fields of gratitude: relationships, events, opportunities, small things](http://journalsmarter.com/wp-content/uploads/2019/06/15-gratitude-journal.jpg)
+![4 fields of gratitude: relationships, events, opportunities, small things](/assets/gratitude-journal-15.jpeg)
 
 ## 4. Keep on wearing the glasses
 
@@ -114,13 +115,13 @@ For over ten years, Oprah wrote down, every single day, five things she felt gra
 
 Suddenly, she says, she “stopped feeling the joy of simple moments”, and became “one of those people who never have time to feel delight”. But then, as soon as she realized this and got back to journaling, her show became more successful than ever and she was happier and fulfilled again.
 
-![Oprah quit her gratitude journal](http://journalsmarter.com/wp-content/uploads/2019/06/16-gratitude-journal.jpg)
+![Oprah quit her gratitude journal](/assets/gratitude-journal-16.jpeg)
 
 **If you want to cultivate a gratitude mentality, you need to put in the daily reps.** If you suddenly stop wearing your glasses, it’s obvious that you’ll go back to seeing a blurry reality.
 
 What (probably) happened to Oprah is what happens to most of us: we think that achievement is the way to happiness, so we get lost in busyness and doing, and we forget that if we don’t take time to appreciate our achievements, we’ll never be truly happy.
 
-![achievement + gratitude = happiness](http://journalsmarter.com/wp-content/uploads/2019/06/17-gratitude-journal.jpg)
+![achievement + gratitude = happiness](/assets/gratitude-journal-17.jpeg)
 
 A gratitude journal is a great way to consistently and intentionally fight the negativity bias; but in order for that to happen, you need to make it a habit.
 
@@ -138,7 +139,7 @@ When those hard days hit me, there is one exercise that always works for me:
 
 Here is an example:
 
-![a thank you letter to myself](http://journalsmarter.com/wp-content/uploads/2019/06/18-gratitude-journal.jpg)
+![a thank you letter to myself](/assets/gratitude-journal-18.jpeg)
 
 Whether I feel demotivated, [anxious](http://journalsmarter.com/7-ways-to-instantly-soothe-anxiety/){:target="_blank"}, overwhelmed, or just really low in self-esteem, this exercise always feels incredibly healing.
 
@@ -146,7 +147,7 @@ Receiving appreciation from other people can become an obsession because we neve
 
 ## 5. Don’t keep it all to yourself
 
-![Spread the gratitude!](http://journalsmarter.com/wp-content/uploads/2019/06/19-gratitude-journal.jpg)
+![Spread the gratitude!](/assets/gratitude-journal-19.jpeg)
 
 According to Robert Emmons, a psychology professor at UC Davis, _“Grateful living is possible only when we realize that other people and agents do things for us that we cannot do for ourselves.”_
 
@@ -156,7 +157,7 @@ Keeping a journal is powerful, but if you just stay inside your own bubble, you 
 
 Very often, instead of just journaling about random things, I write thank you notes to specific people. This allows me to feel more positively towards them, and it also gives me a framework to go deeper into my gratitude work.
 
-![a thank you letter to my partner](http://journalsmarter.com/wp-content/uploads/2019/06/20-gratitude-journal.jpg)
+![a thank you letter to my partner](/assets/gratitude-journal-20.jpeg)
 
 And then, whenever I feel like it, **I copy those thank you notes into an email and hit send, or I read them out loud to that person.** This has been one of the most transformational relationship practices I have ever tried: imagine receiving a deep, heartfelt, unexpected thank-you letter from someone you know. How would that impact your relationship?
 
@@ -164,7 +165,7 @@ But I set myself no obligation to share it. If I don’t feel like it, I just ke
 
 ## Where to start?
 
-![gratitude journal: where to start](http://journalsmarter.com/wp-content/uploads/2019/06/21-gratitude-journaling.jpg)
+![gratitude journal: where to start](/assets/gratitude-journal-21.jpeg)
 
 Grab a notebook (either buy a new one or use your current journal), define a time every day, and start experimenting with the exercises above.
 
@@ -174,7 +175,7 @@ Life may not be actually black and white, but your state of mind and happiness d
 
 ## A thank you note
 
-![gratitude note](http://journalsmarter.com/wp-content/uploads/2019/06/22-gratitude-journal.jpg)
+![gratitude note](/assets/gratitude-journal-22.jpeg)
 
 Thank you AJ Jacobs for inspiring me with your work to write this article, and for your positive impact in the world. Everyone, I highly recommend you check AJ’s work at [ajjacobs.com](https://ajjacobs.com/){:target="_blank"}.
 
