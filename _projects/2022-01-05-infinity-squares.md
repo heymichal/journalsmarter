@@ -1,12 +1,11 @@
 ---
 layout: project
-title: Infinity Squares
+title: Watch Your Days Unfold Beautifully With Infinity Squares
 description: Your Life in Squares.
 summary: email based course | €77
 category: 
 image: /assets/infinity-squares.jpg
 ---
-# Watch Your Days Unfold Beautifully With Infinity Squares
 ![Infinity Squares](/assets/infinity-squares.jpg)
 
 The link below will take you to the course:
