@@ -9,10 +9,10 @@ image: /assets/life-course-workshop.jpg
 
 ![Charting New Course Scan](/assets/charting-new-course.jpg)
 
-Thursday, 13 January 2022
-2 hours workshop
-Start at: Los Angeles 10:00am / New York 13:00 / London 18:00 / Berlin 19:00
-(note: no admissions after check-in)
+Thursday, 13 January 2022 <br>
+2 hours workshop <br>
+Start at: Los Angeles 10:00am / New York 13:00 / London 18:00 / Berlin 19:00 <br>
+(note: no admissions after check-in) <br>
 
 Recording will be send afterwards
 
@@ -26,5 +26,5 @@ The workshop includes **individual  journaling** based on three graphs / visual 
 
 If you have any questions, send me a message.
 
-With Love,
+With Love, <br>
 Michał
