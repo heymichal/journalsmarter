@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Charting A New Life Course Workshop
 description: Use three graphs to set new direction for the next chapter of your life.
 summary: online workshop | €15
