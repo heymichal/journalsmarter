@@ -1,13 +1,13 @@
 ---
 layout: post
-title: New Moon Ceremony
+title: New Moon Journaling
 description: How To Use Journaling to Realign in the Beginning of a New Cycle.
 image: /assets/new-moon-intention-spread.jpg
 tags:
 author: Michal Korzonek
 ---
 
-# New Moon Ceremony: How To Use Journaling to Realign in the Beginning of a New Cycle.
+## How To Use Journaling to Realign in the Beginning of a New Cycle.
 
 *Tell me more about the Moon cycles.*
 
@@ -37,7 +37,7 @@ How to navigate this tension?
 
 **Instead of making plans, I set *intentions*, and shorten the time horizon by aligning them with the Moon cycles.**
 
-Etymologically speaking, *intention* can be traced back to Old French word *[intendre](https://www.etymonline.com/word/intend?ref=etymonline_crossreference)* meaning "to direct one's attention" and Old English *[entencioun](https://www.etymonline.com/search?q=intention)* meaning "purpose, design, aim or object; will, wish, desire, that which is intended". That sounds much better to me that "to scheme, to devise ways and means for (the doing of something)" that *planning* originates from. In other words, **intention is about *bringing attention* to what is important to you, rather than *thinking* of how to go about it.**
+Etymologically speaking, *intention* can be traced back to Old French word *[intendre](https://www.etymonline.com/word/intend?ref=etymonline_crossreference){:target="_blank"}* meaning "to direct one's attention" and Old English *[entencioun](https://www.etymonline.com/search?q=intention){:target="_blank"}* meaning "purpose, design, aim or object; will, wish, desire, that which is intended". That sounds much better to me that "to scheme, to devise ways and means for (the doing of something)" that *planning* originates from. In other words, **intention is about *bringing attention* to what is important to you, rather than *thinking* of how to go about it.**
 
 The Moon completes the formula by providing **a perfect time horizon of 29 ½ days (on average), which feels both short enough to be encouraging (rather than overwhelming), and long enough to allow for tangible results to become visible.** And it's always possible to roll an intention over to the following cycle, if it still fully resonates.
 
@@ -49,13 +49,13 @@ I stay aware of the Moon cycle by actually looking at the Moon every night 🌓.
 
 I'm happily living in the middle of a forest with zero light pollution so that's not a difficult task, but the Moon is strong enough to cut through even the brightest cityscapes. Trust me, it will do you good to spend some time looking at Her every night.
 
-I also use [this app](https://www.probadosoft.com/android/moonphasecalendar/), which displays the current moon phase as a widget on my phone's wallpaper.
+I also use [this app](https://www.probadosoft.com/android/moonphasecalendar/){:target="_blank"}, which displays the current moon phase as a widget on my phone's wallpaper.
 
 ![screenshot of phone wallpaper with Moon phase displayed](/assets/lunar-app.jpg)
 
 My journal is another reminder.
 
-**Every New Moon I draw a page of [Infinity Squares](https://infinitysquares.xyz) which will last until the Full Moon, and then on the Full Moon I draw another page, which will last until the New Moon. So two pages of squares per Moon cycle.**
+**Every New Moon I draw a page of [Infinity Squares](https://infinitysquares.xyz){:target="_blank"} which will last until the Full Moon, and then on the Full Moon I draw another page, which will last until the New Moon. So two pages of squares per Moon cycle.**
 
 I then use the blank page in the spread to write down the intention(s) for that part of the cycle.
 
@@ -103,9 +103,9 @@ Occasionally, I change something on the page, or cross something out (remember t
 
 I also have two extra digital journaling practices that are aligned with the Moon.
 
-The [Moonly Review](https://mindjuggling.substack.com/), which is a personal heartfelt letter sent on the New Moon and Full Moon, where I write about what's alive in me right now. I've started writing it in December 2020 as an experiment, and the practice is still with me. 
+The [Moonly Review](https://mindjuggling.substack.com/){:target="_blank"}, which is a personal heartfelt letter sent on the New Moon and Full Moon, where I write about what's alive in me right now. I've started writing it in December 2020 as an experiment, and the practice is still with me. 
 
-I also create a [Moonly Video Diary](https://www.youtube.com/playlist?list=PLGa1Umh9AlTiAcTIS3Tzge7g-RqvRaFVQ), compiling a few seconds of video from every day into a Moonly video. I've started this practice back in 2017, stopped after 3 times, and then came back to it in 2021. I have a feeling that this time it will stick for a while. Let's see 👁.
+I also create a [Moonly Video Diary](https://www.youtube.com/playlist?list=PLGa1Umh9AlTiAcTIS3Tzge7g-RqvRaFVQ){:target="_blank"}, compiling a few seconds of video from every day into a Moonly video. I've started this practice back in 2017, stopped after 3 times, and then came back to it in 2021. I have a feeling that this time it will stick for a while. Let's see 👁.
 
 ## Ready to Flourish?
 
