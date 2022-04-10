@@ -53,6 +53,10 @@ I also use [this app](https://www.probadosoft.com/android/moonphasecalendar/){:t
 
 ![screenshot of phone wallpaper with Moon phase displayed](/assets/lunar-app.jpg)
 
+I also created a "manual" Lunar Calendar, which is now hanging in a central part of my tiny house:
+
+![photo of lunar calendar](/assets/lunars.jpg)
+
 My journal is another reminder.
 
 **Every New Moon I draw a page of [Infinity Squares](https://infinitysquares.xyz){:target="_blank"} which will last until the Full Moon, and then on the Full Moon I draw another page, which will last until the New Moon. So two pages of squares per Moon cycle.**
