@@ -107,11 +107,9 @@ The [Moonly Review](https://mindjuggling.substack.com/){:target="_blank"}, which
 
 I also create a [Moonly Video Diary](https://www.youtube.com/playlist?list=PLGa1Umh9AlTiAcTIS3Tzge7g-RqvRaFVQ){:target="_blank"}, compiling a few seconds of video from every day into a Moonly video. I've started this practice back in 2017, stopped after 3 times, and then came back to it in 2021. I have a feeling that this time it will stick for a while. Let's see 👁.
 
-## Ready to Flourish?
+## Ready to Align 🌑🌕?
 
-I invite you to join *Flourish* - a facilitated journey of reconnection and abundant growth, aligned with the Moon cycle, and combining some of the most powerful journaling and relational growth practices.
-
-[Learn more about it here](/projects/flourish).
+I invite you to draw your [Infinity Squares](https://infinitysquares.xyz){:target="_blank"}.
 
 🌱
 
