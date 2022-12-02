@@ -6,7 +6,6 @@ summary: video course | €7
 category: 
 image: 
 ---
-![Infinity Squares](/assets/infinity-squares.jpg)
 
 The link below will take you to the course:
 
