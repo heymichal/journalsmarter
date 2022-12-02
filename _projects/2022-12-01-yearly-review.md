@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Yearly Review
-description: ## Reconnect with moments that shaped your year. Process your journey. Embrace new adventures.
+description: ##Reconnect with moments that shaped your year. Process your journey. Embrace new adventures.
 summary: video course | €7
 category: 
 image: 
